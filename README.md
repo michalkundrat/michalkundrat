@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### Hello everyone! I am Michal, a sixth form student from Slovakia 🇸🇰, living in the United Kingdom 🇬🇧, studying Physics, Mathematics and (of course) Computer Science at A-Level.
+#### Good day! I am Michal, a sixth form student from Slovakia 🇸🇰, living in the United Kingdom 🇬🇧, studying Physics, Mathematics and (of course) Computer Science at A-Level.
 
 Although most of my time spent on GitHub is generally spent working on my Computer Science NEA, I do still try and find time to work on personal projects, be it programming related, or doing things completely separate to my studies.
 
