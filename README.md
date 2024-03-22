@@ -12,6 +12,7 @@ I work part-time as a Lifeguard for a leading health and wellness group, and thi
 ### Programming and my interests
 Programming has been a hobby of mine since 2020, where I began my journey with Python Discord bots. From this humble beginning, I have raised the level of complexity of my code and focused on more and more demanding (and interesting!) projects to broaden and improve my abilities.
 Below are some of the projects that I have worked on:
+  - Discord bots
 
 
 <!--
