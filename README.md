@@ -20,6 +20,7 @@ Below are some of the projects that I have worked on:
   - [RusynKeyboard](https://github.com/michalkundrat/RusynKeyboard): A QWERTYfied, phonetic Rusyn keyboard layout, designed around a Slovak speaker
   - [rusyn-website](https://github.com/michalkundrat/rusyn-website): A website centred around the Rusyn language and people
   - [ETS2-Autopilot](https://github.com/michalkundrat/ETS2-Autopilot): An advanced automation program which utilises deep learning to enable an autopilot function to exist within Euro Truck Simulator 2
+  - A third-party implementation of a messaging service for WearOS 2.0
   - Other private projects, including an e-commerce website for a paying client
 
 Each of the above projects has contributed to my abilities as a programmer, and it has taught me various skills, from frontend development to deep learning, and I would thoroughly recommend similar projects to anyone who is starting out with programming.
