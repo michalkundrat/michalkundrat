@@ -13,6 +13,11 @@ I work part-time as a Lifeguard for a leading health and wellness group, and thi
 Programming has been a hobby of mine since 2020, where I began my journey with Python Discord bots. From this humble beginning, I have raised the level of complexity of my code and focused on more and more demanding (and interesting!) projects to broaden and improve my abilities.
 Below are some of the projects that I have worked on:
   - Discord bots
+  - [algorithm-trainer](https://github.com/michalkundrat/algorithm-trainer): A Flutter application which allows the user to practice and learn Rubik's cube algorithms for the CFOP and CFOP 2-Look methods of solving
+  - [RusynKeyboard](https://github.com/michalkundrat/RusynKeyboard): A QWERTYfied, phonetic Rusyn keyboard layout, designed around a Slovak speaker
+  - [rusyn-website](https://github.com/michalkundrat/rusyn-website): A website centred around the Rusyn language and people
+  - [ETS2-Autopilot](https://github.com/michalkundrat/ETS2-Autopilot): An advanced automation program which utilises deep learning to enable an autopilot function to exist within Euro Truck Simulator 2
+  - Other private projects, including an e-commerce website for a paying client
 
 
 <!--
